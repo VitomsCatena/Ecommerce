@@ -1,2 +1,1 @@
-# Ecommerce-Website-Using-HTML-CSS-JavaScript
-
+readme is blank for a reason.
