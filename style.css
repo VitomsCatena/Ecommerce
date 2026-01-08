@@ -63,13 +63,16 @@ p,
 span {
   color: var(--color-dark-blue);
 }
+
 a {
   text-decoration: none;
   color: var(--color-magenta);
 }
+
 img {
   max-width: 100%;
 }
+
 .btn {
   position: relative;
   width: max-content;
@@ -86,6 +89,7 @@ img {
   box-shadow: 0 10px 10px #ff3c7644;
   transition: background-color 0.3s;
 }
+
 .btn::after {
   content: attr(data-after);
   position: absolute;
