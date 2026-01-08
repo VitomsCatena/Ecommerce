@@ -120,6 +120,7 @@
 		this.$element.on(this._handlers);
 	};
 
+	
 	/**
 	 * Default options.
 	 * @public
@@ -153,6 +154,7 @@
 	 * Initializes the layout of the plugin and extends the carousel.
 	 * @protected
 	 */
+
 	Navigation.prototype.initialize = function() {
 		var override,
 			settings = this._core.settings;
